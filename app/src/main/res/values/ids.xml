@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="weiter_fertig" type="id" />
+    <item name="nachricht" type="id" />
+</resources>
